@@ -14,5 +14,5 @@
 
 
 variable "project" {
-default=coppel-billing
+default="coppel-billing"
 }
